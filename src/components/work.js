@@ -25,7 +25,7 @@ const Work = () => {
           <Project
             logo={LifeTimeLogo()}
             title="HandicApp"
-            abstract="A dynamic way to track your golf handicap."
+            abstract="A dynamic way to track your golf handicap"
             link={LifeTimeLink} // will be screenshot of handicapp login
           />
           <Project
