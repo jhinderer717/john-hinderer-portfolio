@@ -34,7 +34,7 @@ const Work = () => {
             abstract="An app that allows you to build, analyze and edit smooth color palettes."
             link={PalettteLink}
           />
-          <Project
+          {/* <Project
             logo={KellerkindLogo()}
             title="Kellerkind"
             abstract="A social event company organizing two festivals for electronic music and art with ~20.000 yearly visitors north of munich."
@@ -45,7 +45,7 @@ const Work = () => {
             title="Bäm"
             abstract="Climbing products and other stuff that give you the extra bäm effect."
             link={BamLink}
-          />
+          /> */}
         </Fragment>
       }
     />
