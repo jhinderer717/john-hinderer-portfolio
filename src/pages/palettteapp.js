@@ -34,7 +34,7 @@ const PalettteApp = () => {
           <p>
             <a href="https://palettte.app">Palettte App</a> is a tool I built in
             order to learn react and solve a specific problem I had when working
-            on our color palettes at <Link to="/lifetime">LifeTime</Link>.<br />
+            on our color palettes at <Link to="/handicapp">HandicApp</Link>.<br />
           </p>
           <br />
           <h3>Why yet another color palette tool?</h3>

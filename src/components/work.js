@@ -10,7 +10,7 @@ import PalettteAppLogo from 'img/palettteapplogo'
 import LifeTimeLogo from 'img/lifetimelogo'
 import BamLogo from 'img/bamlogo'
 
-const LifeTimeLink = <Link to="/lifetime">Read More</Link>
+const LifeTimeLink = <Link to="/handicapp">Read More</Link>
 const PalettteLink = <Link to="/palettteapp">Read More</Link>
 const KellerkindLink = <Link to="/kellerkind">Read More</Link>
 const BamLink = <Link to="/bam">Read More</Link>
@@ -24,9 +24,9 @@ const Work = () => {
         <Fragment>
           <Project
             logo={LifeTimeLogo()}
-            title="LifeTime"
-            abstract="Secure data exchange infrastructure for healthcare."
-            link={LifeTimeLink}
+            title="HandicApp"
+            abstract="A dynamic way to track your golf handicap."
+            link={LifeTimeLink} // will be screenshot of handicapp login
           />
           <Project
             logo={PalettteAppLogo()}

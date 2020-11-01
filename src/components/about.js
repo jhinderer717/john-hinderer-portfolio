@@ -40,7 +40,7 @@ const About = () => {
           </p>
           <p>
             Currently I'm designing the future of medical infrastructure at{' '}
-            <Link to="/lifetime">LifeTime</Link> and hosting electronic music
+            <Link to="/handicapp">HandicApp</Link> and hosting electronic music
             festivals with <Link to="/kellerkind">Kellerkind</Link>.
           </p>
           <p style={{ marginBottom: 0 }}>
